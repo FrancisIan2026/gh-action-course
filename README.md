@@ -1,1 +1,1 @@
-Repository containing all exampe and notes for the Github Action
+Repository containing all example and notes for the Github Action. This has been edited
